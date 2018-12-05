@@ -33,7 +33,13 @@ body {
   #home-section .card-form {
     opacity: 0.8;
   }
+#main-nav .fab {
+    background: #333;
+    color: #fff;
+    padding: 10px 20px;
+  
 
+}
   #home-section .fas {
   color: #008ed6;
   background: #fff;
