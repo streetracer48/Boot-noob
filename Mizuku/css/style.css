@@ -22,6 +22,14 @@ body {
     width: 100%;
     height: 100%; }
 
+#authors img {
+  margin-top: -50px; }
+#authors .card:hover {
+  background: #3292a6;
+  color: #fff; }
+#authors .fab {
+  color: #fff; }
+
 @media (max-width: 768px) {
   #showcase {
     min-height: 500px; }
