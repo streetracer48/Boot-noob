@@ -6,12 +6,12 @@ body {
   opacity: 0.9;
   background: #fff; }
   .navbar .nav-item {
-    font-size: 1.4rem;
+    font-size: 1rem;
     padding-right: 1.4rem; }
 
 #showcase {
   position: relative;
-  margin-top: 110px;
+  margin-top: 79px;
   background: url("../img/mountains.jpg");
   min-height: 600px; }
   #showcase .primary-overlay {
